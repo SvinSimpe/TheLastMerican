@@ -22,6 +22,12 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
+
 # Visual Studo 2015 cache/options directory
 .vs/
 
