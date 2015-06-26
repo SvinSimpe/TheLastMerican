@@ -1,0 +1,12 @@
+--		--
+ The Last Merican
+--		--
+
+
+Sizes WIDTH*HEIGHT
+==================
+Resolution-------1280*768
+Floor------------1150*650
+Top/Bottom Wall--1280*59
+Side Wall--------65*768
+Tile-------------50*50
