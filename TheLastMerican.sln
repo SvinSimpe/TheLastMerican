@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLastMerican", "TheLastMerican\TheLastMerican\TheLastMerican.csproj", "{0E77081E-8A27-4428-A35B-30563F2D1FC7}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TheLastMericanContent", "TheLastMerican\TheLastMericanContent\TheLastMericanContent.contentproj", "{AF02D714-AE87-4C2E-9F64-04C3237B87EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E77081E-8A27-4428-A35B-30563F2D1FC7}.Debug|x86.ActiveCfg = Debug|x86
+		{0E77081E-8A27-4428-A35B-30563F2D1FC7}.Debug|x86.Build.0 = Debug|x86
+		{0E77081E-8A27-4428-A35B-30563F2D1FC7}.Release|x86.ActiveCfg = Release|x86
+		{0E77081E-8A27-4428-A35B-30563F2D1FC7}.Release|x86.Build.0 = Release|x86
+		{AF02D714-AE87-4C2E-9F64-04C3237B87EC}.Debug|x86.ActiveCfg = Debug|x86
+		{AF02D714-AE87-4C2E-9F64-04C3237B87EC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
